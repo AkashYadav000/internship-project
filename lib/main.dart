@@ -2,7 +2,6 @@ import 'package:ayush_project_1/Consulatncy.dart';
 import 'package:ayush_project_1/about.dart';
 import 'package:ayush_project_1/account.dart';
 import 'package:ayush_project_1/container.dart';
-import 'package:ayush_project_1/payment.dart';
 import 'package:ayush_project_1/shippingdetails.dart';
 import 'package:ayush_project_1/store_page.dart';
 import 'package:flutter/material.dart';
